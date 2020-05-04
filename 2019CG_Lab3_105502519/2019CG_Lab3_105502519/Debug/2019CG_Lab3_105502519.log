@@ -1,0 +1,8 @@
+﻿  Lab3_105502519.cpp
+d:\users\2019cg_lab3_105502519\lab3_105502519.cpp(193): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\users\2019cg_lab3_105502519\lab3_105502519.cpp(592): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\users\2019cg_lab3_105502519\lab3_105502519.cpp(594): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\users\2019cg_lab3_105502519\lab3_105502519.cpp(595): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\users\2019cg_lab3_105502519\lab3_105502519.cpp(596): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\users\2019cg_lab3_105502519\lab3_105502519.cpp(613): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  2019CG_Lab3_105502519.vcxproj -> D:\Users\2019CG_Lab3_105502519\Debug\2019CG_Lab3_105502519.exe
